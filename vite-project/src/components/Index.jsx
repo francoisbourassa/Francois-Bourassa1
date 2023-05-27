@@ -7,6 +7,8 @@ import Monparcours from "./Monparcours";
 import FeedbackCard from "./FeedbackCard";
 
 
+
+
 export {
   Home,
   Competence,
@@ -15,4 +17,5 @@ export {
   Footer,
   Monparcours,
   FeedbackCard,
+ 
 };

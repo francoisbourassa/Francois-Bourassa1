@@ -1,59 +1,42 @@
-import {  facebook, instagram, linkedin, twitter, } from "../assets";
+
 
 
 export const navLinks = [
   {
-    id: "home",
+    id: "About",
+    title: "About",
+  },
+  {
+    id: "Home",
     title: "À propos",
   },
   {
-    id: "feedbackcard",
+    id: "Feedbackcard",
     title: "Réputation",
   },
   {
-    id: "monparcours",
+    id: "Monparcours",
     title: "Monparcours",
   },
   
   {
-    id: "competence",
+    id: "Competence",
     title: "Competence",
   },
   {
-    id: "contact",
+    id: "Contact",
     title: "Contact",
   },
   
   {
-    id: "footer",
+    id: "Footer",
     title: "Footer",
   },
 
 ];
 
 
-export const socialMedia = [
-  {
-    id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
-  },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
-  {
-    id: "social-media-4",
-    icon: linkedin,
-    link: "https://www.linkedin.com/",
-  },
-];
+
 
 export const feedback = [
   {
@@ -82,23 +65,23 @@ export const feedback = [
 export const projects = [
   {
     id: "project-1",
-    title: "Copier et étudier un site web d’une banque sur 1 page",
+    title: "Copier et étudier un site web d’une banque sur 1 page.",
   },
   {
     id: "project-2",
-    title: "Copier et étudier un spotifi",
+    title: "Copier et étudier un spotifi.",
   },
   {
     id: "project-3",
-    title: "Copier et étudier une application de recherche d’emploi avec React Native",
+    title: "Copier et étudier une application de recherche d’emploi avec React Native.",
   },
   {
     id: "project-4",
-    title: "Copier et étudier un main dashboard pour une entreprise",
+    title: "Copier et étudier un main dashboard pour une entreprise.",
   },
   {
     id: "project-5",
-    title: "Créer mon site web personnel de toute pièce",
+    title: "Créer mon site web personnel de toute pièce.",
   }, 
 ];
 
