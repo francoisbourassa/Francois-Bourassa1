@@ -87,25 +87,18 @@ export const feedback = [
 ];
 
 export const projects = [
+
   {
     id: "project-1",
-    title: "Copier et étudier un site web d’une banque sur 1 page.",
-  },
+    title: "Création de mon site web personnel.",
+  }, 
   {
     id: "project-2",
-    title: "Copier et étudier un spotifi.",
-  },
+    title: "Création d'une application mobile semblable à Indeed.",
+  }, 
   {
     id: "project-3",
-    title: "Copier et étudier une application de recherche d’emploi avec React Native.",
-  },
-  {
-    id: "project-4",
-    title: "Copier et étudier un main dashboard pour une entreprise.",
-  },
-  {
-    id: "project-5",
-    title: "Créer mon site web personnel de toute pièce.",
+    title: "Création d'un main dashboard pour une entreprise.",
   }, 
 ];
 
@@ -135,6 +128,27 @@ export const devTools = [
     toolName: "Javascript",
     link: "https://www.javascript.com/",
   },
+  {
+    id: "dev-tool-6",
+    toolName: "Expo",
+    link: "https://expo.dev/",
+  },
+  {
+    id: "dev-tool-7",
+    toolName: "Axios",
+    link: "https://github.com/axios/axios",
+  },
+  {
+    id: "dev-tool-8",
+    toolName: "React Native",
+    link: "https://reactnative.dev/",
+  },
+
+  {
+    id: "dev-tool-9",
+    toolName: "Syncfusion/ej2",
+    link: "https://ej2.syncfusion.com/home/",
+  }, 
 
   
 ];

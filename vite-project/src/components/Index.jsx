@@ -17,5 +17,4 @@ export {
   Footer,
   Monparcours,
   FeedbackCard,
- 
 };
