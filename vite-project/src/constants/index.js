@@ -100,6 +100,10 @@ export const projects = [
     id: "project-3",
     title: "Création d'un main dashboard pour une entreprise.",
   }, 
+  {
+    id: "project-3",
+    title: "Création d'un site web de ecommerce en cours",
+  }, 
 ];
 
 export const devTools = [
