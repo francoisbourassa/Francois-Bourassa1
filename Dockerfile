@@ -1,8 +1,2 @@
-FROM node:14
-WORKDIR /app
-COPY package*.json ./
-RUN npm install
-COPY . .
-EXPOSE 8080
-CMD ["node", "app.jsx"]
- 
+FROM nginx:1.10.1-alpine
+COPY Dockerfile /usr/share/nginx
